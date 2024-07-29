@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323656424599930193/4408e160b8b64eff9135d7751928606e/artifacts
+end_time: 1722247233472
+entry_point_name: ''
+experiment_id: '323656424599930193'
+lifecycle_stage: active
+run_id: 4408e160b8b64eff9135d7751928606e
+run_name: suave-pug-235
+run_uuid: 4408e160b8b64eff9135d7751928606e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722247232948
+status: 3
+tags: []
+user_id: sandeepkumar

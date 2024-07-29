@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323656424599930193/1efa6999b9dd44e498f297098d5f7387/artifacts
+end_time: 1722245587176
+entry_point_name: ''
+experiment_id: '323656424599930193'
+lifecycle_stage: active
+run_id: 1efa6999b9dd44e498f297098d5f7387
+run_name: sandeep_run
+run_uuid: 1efa6999b9dd44e498f297098d5f7387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722245587108
+status: 3
+tags: []
+user_id: sandeepkumar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323656424599930193/1db66255cc4f496aafea56a02cfe00e3/artifacts
+end_time: 1722247379150
+entry_point_name: ''
+experiment_id: '323656424599930193'
+lifecycle_stage: active
+run_id: 1db66255cc4f496aafea56a02cfe00e3
+run_name: ambitious-sloth-365
+run_uuid: 1db66255cc4f496aafea56a02cfe00e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722247378446
+status: 3
+tags: []
+user_id: sandeepkumar

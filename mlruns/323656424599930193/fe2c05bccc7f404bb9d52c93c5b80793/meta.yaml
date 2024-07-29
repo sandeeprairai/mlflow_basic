@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/323656424599930193/fe2c05bccc7f404bb9d52c93c5b80793/artifacts
+deleted_time: 1722247626322
+end_time: 1722247510960
+entry_point_name: ''
+experiment_id: '323656424599930193'
+lifecycle_stage: deleted
+run_id: fe2c05bccc7f404bb9d52c93c5b80793
+run_name: aged-turtle-892
+run_uuid: fe2c05bccc7f404bb9d52c93c5b80793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722247509829
+status: 4
+tags: []
+user_id: sandeepkumar

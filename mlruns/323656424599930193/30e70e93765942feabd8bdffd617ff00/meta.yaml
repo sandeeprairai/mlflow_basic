@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/323656424599930193/30e70e93765942feabd8bdffd617ff00/artifacts
+end_time: 1722247619854
+entry_point_name: ''
+experiment_id: '323656424599930193'
+lifecycle_stage: active
+run_id: 30e70e93765942feabd8bdffd617ff00
+run_name: gifted-loon-161
+run_uuid: 30e70e93765942feabd8bdffd617ff00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722247607288
+status: 3
+tags: []
+user_id: sandeepkumar

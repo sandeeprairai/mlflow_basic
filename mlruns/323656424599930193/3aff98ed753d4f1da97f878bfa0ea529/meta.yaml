@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/323656424599930193/3aff98ed753d4f1da97f878bfa0ea529/artifacts
+deleted_time: 1722247250982
+end_time: 1722246820450
+entry_point_name: ''
+experiment_id: '323656424599930193'
+lifecycle_stage: deleted
+run_id: 3aff98ed753d4f1da97f878bfa0ea529
+run_name: delicate-duck-14
+run_uuid: 3aff98ed753d4f1da97f878bfa0ea529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722246819164
+status: 4
+tags: []
+user_id: sandeepkumar
